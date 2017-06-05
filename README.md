@@ -39,7 +39,7 @@ enemy,enjoy,error,exciting,fails,useful,ability,capability,visionary,yes.
 
 ### Διεύθυνση αρχικής εφαρμογής
 
-https://stark-lake-93710.herokuapp.com/
+[stark-lake-93710.herokuapp.com/](https://stark-lake-93710.herokuapp.com/)
 
 
 ### Αλλαγές που έγιναν
@@ -72,9 +72,9 @@ tweet.sentiment.score  >=  0.80   Συναίσθημα της ασφάλειας
 ### Λέξεις που μεταφράστηκαν
 Ability  = ικανότητα , accept = αποδέχομαι ,  accepted  = αποδεκτό ,  accidents  = ατυχήματα, afraid	= φοβισμένος ,  agreement = συμφωνία ,enemy = εχθρός ,  alive =  ζωντανός ,  alone = μόνος ,  angry = θυμωμένος ,  bad = κακό , battle = μάχη , beautify = καλλωπίζω , brave = γενναίος , capability =  δυνατότητα ,  cheat =  απάτη  ,  clarifies = διασαφηνίζει ,  clarity = σαφήνεια ,  clash  = σύγκρουση ,  clear = Σαφή , damage = ζημιά ,  danger = κίνδυνος ,  easy = εύκολο , enjoy  = απολαμβάνω,error = λάθος , exciting	 = συναρπαστικός ,  fails = αποτυγχάνει  ,  trusted = έμπιστος ,useful = χρήσιμος , visionary = ονειροπόλος , yes = ναί .
 
-https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/blob/METAFLASH_LEXEON/AFINN-translateToGreek165.txt
+[METAFLASH_LEXEON](https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/blob/METAFLASH_LEXEON/AFINN-translateToGreek165.txt)
 
-https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/blob/Colors-Tests/public/javascripts/TweetBeacon.js
+[Colors-Tests](https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/blob/Colors-Tests/public/javascripts/TweetBeacon.js)
 
 ## Παραδοτέο 3
 
@@ -82,24 +82,24 @@ https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/blob/Colors-Tests/public
 
 Αλλάχτηκαν τα χρώματα στα tweets των ανθρώπων με μπλε τα θετικά χρώματα  και έντονο κόκκινο τα αρνητικά. Παρακάτω το αντιστοιχώ link .
 
- https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/commits/Twette-Color-Change/public/stylesheets
+ [Twette-Color-Change](https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/commits/Twette-Color-Change/public/stylesheets)
  
 Έγινε αλλαγή στην ταχύτητα και στη φορά της   υδρογείου . Η ταχύτητα αυξήθηκε   και η περιστροφή της γης γίνεται προς τα αριστερά.  Παρακάτω το αντιστοιχώ link .
 
-https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/commits/EARTH-SPEED/public/javascripts
+[EARTH-SPEED](https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/commits/EARTH-SPEED/public/javascripts)
 
 Έγινε αλλαγή στο μέγεθος της υδρογείου . Το μέγεθος  της το  μίκρυνα αρκετά.  Παρακάτω το αντιστοιχώ link .
 
-https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/commits/SIZE-GLOBE/public/javascripts
+[SIZE-GLOBE](https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/commits/SIZE-GLOBE/public/javascripts)
 
 Έγινε περιορισμός των δεδομένων από τα tweets σε ολόκληρη την  Ευρώπη.  Το μόνο που χριζότανε ήταν αν μετατρέψεις της  γεωγραφικές συντεταγμένες από το  GOOGLE EARTH σε συντεταμένες GPS χρησιμοποιώντας το  itouchmap .Και στη συνείχα να αλλάξεις τον κώδικα που εμφανίζει τα tweets .Παρακάτω το αντίστοιχα links .
 
-https://itouchmap.com/latlong.html
-https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/commits/TWEETS-LOCATION/public/javascripts
+[itouchmap.com](https://itouchmap.com/latlong.html)
+[TWEETS-LOCATION](https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/commits/TWEETS-LOCATION/public/javascripts)
 
 Τέλος έγινε αλλαγή στην οπτικοποίηση  της υδρογείου έγινε  προσθέτοντας μια εικόνα στον φάκελο με τις εικόνες και αλλάζοντας στο αρχείο  TwitterStreamGlobe.js την εικόνα που θα φόρτωση . Παρακάτω το αντιστοιχώ link .
 
-https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/commits/VISUALIZATION-WORLD/public
+[VISUALIZATION-WORLD](https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/commits/VISUALIZATION-WORLD/public)
 
 Όλα τα παραπάνω ξεχωριστά  commits  αντιπροσωπεύουν το develop  και η υλοποίηση της εφαρμογής στο herocu  γίνεται μέσα από αυτό το branch .
 
@@ -124,8 +124,8 @@ https://github.com/GIANNIS-AGGELIS/twitter-stream-globe/commits/VISUALIZATION-WO
 
 # Bonus
 
- 1. github-pages  (https://giannis-aggelis.github.io/Architect.csws/)
+ 1 [github-pages](https://giannis-aggelis.github.io/Architect.csws/)
  
- 5. Email dsa11999977@gmail.com (https://github.com/GIANNIS-AGGELIS/cscw/blob/2015006/projects/2015006/Screenshot_2017-06-05-11-42-58.png)
+ 5 Email dsa11999977@gmail.com [PoM image](https://github.com/GIANNIS-AGGELIS/cscw/blob/2015006/projects/2015006/Screenshot_2017-06-05-11-42-58.png)
 
 # Διεύθυνση εφαρμογής : https://cscwtweteer.herokuapp.com/
