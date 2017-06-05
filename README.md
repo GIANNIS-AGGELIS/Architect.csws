@@ -67,7 +67,7 @@ tweet.sentiment.score  >=  0,40 && tweet.sentiment.score  < 0.80   Συναίσ�
 tweet.sentiment.score  >=  0.80   Συναίσθημα της ασφάλειας
 
 
-![Screenshot_1](https://github.com/GIANNIS-AGGELIS/cscw/blob/2015006/projects/2015006/Screenshot1.png)
+![Screenshot_1](https://github.com/GIANNIS-AGGELIS/Architect.csws/blob/master/Screenshot_1.png)
 
 ### Λέξεις που μεταφράστηκαν
 Ability  = ικανότητα , accept = αποδέχομαι ,  accepted  = αποδεκτό ,  accidents  = ατυχήματα, afraid	= φοβισμένος ,  agreement = συμφωνία ,enemy = εχθρός ,  alive =  ζωντανός ,  alone = μόνος ,  angry = θυμωμένος ,  bad = κακό , battle = μάχη , beautify = καλλωπίζω , brave = γενναίος , capability =  δυνατότητα ,  cheat =  απάτη  ,  clarifies = διασαφηνίζει ,  clarity = σαφήνεια ,  clash  = σύγκρουση ,  clear = Σαφή , damage = ζημιά ,  danger = κίνδυνος ,  easy = εύκολο , enjoy  = απολαμβάνω,error = λάθος , exciting	 = συναρπαστικός ,  fails = αποτυγχάνει  ,  trusted = έμπιστος ,useful = χρήσιμος , visionary = ονειροπόλος , yes = ναί .
